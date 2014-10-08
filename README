@@ -1,9 +1,0 @@
-
-data taken from:
-
-"Genomic surveillance elucidates Ebola virus origin and transmission during the
-2014 outbreak" -- Gire et al (2014) doi 10.1126/science.1259657
-
-the file _extract_SNPs.py creates SNPs.csv that was used to create SNPs.xlsx,
-which is the basis for the SNPs that are used in sierraleone14.py
-
