@@ -13,7 +13,7 @@ The file _extract_SNPs.py creates SNPs.csv that was used to create SNPs.xlsx,
 which is the basis for the SNPs that are used in sierraleone14.py
 
 
-[KvarQ] <http://swisstph.ch/kvarq>
+[KvarQ]: <http://swisstph.ch/kvarq>
 [KvarQ documentation]: <http://kvarq.readthedocs.org>
 [tutorial section]: <http://kvarq.readthedocs.org/en/latest/tutorial.html>
 
