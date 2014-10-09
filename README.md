@@ -20,7 +20,7 @@ from that publication, in particular
   - `Table S4 2014_specific_snps.xlsx` : contains sheet with all "2014
     specific SNPs"
 
-The file `suppl/\_extract\_SNPs.py` was used to create `suppl/SNPs.csv` that
+The file `suppl/_extract_SNPs.py` was used to create `suppl/SNPs.csv` that
 lists for every SNP position the number of occurrences of every base for the
 different groups (sierraleone, guinea, previous).  `suppl/SNPs.xlsx` is based
 on this listing and highlights all the specifici SL1, SL2, and SL3 SNPs from
